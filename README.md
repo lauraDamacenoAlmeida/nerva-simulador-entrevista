@@ -4,6 +4,9 @@ Já sentiu aquele frio na barriga quando ia participar de uma entrevista? Acredi
 
 Nerva é um simulador de entrevistas desenvolvido com a IA generativa da Google (Gemini), idealizado para ajudar pessoas a se prepararem para entrevistas de emprego por meio de interações com inteligência artificial. O projeto foi criado como uma forma prática e acessível de treinar habilidades de comunicação e resposta em cenários realistas. Além disso, ele foi utilizado como base para uma aula gravada para o canal da Rocketseat, cujo objetivo é ajudar as pessoas no primeiro passo no uso de IA generativa criando um chatbot.
 
+![](https://github.com/lauraDamacenoAlmeida/nerva-simulador-entrevista/blob/main/ChatGPT%20Image%20Jul%2025%2C%202025%20at%2004_33_12%20PM.png)
+
+
 ### 🚀 Objetivo:
 Oferecer um ambiente seguro, sem julgamentos, para que usuários possam simular entrevistas reais, praticar respostas e aumentar sua confiança diante de perguntas comportamentais, técnicas ou abertas.
 
