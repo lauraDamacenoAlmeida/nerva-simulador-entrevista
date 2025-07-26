@@ -2,7 +2,7 @@
 
 Já sentiu aquele frio na barriga quando ia participar de uma entrevista? Acredito que todos nós já passamos por isso hahahah Pensando nisso, criei um chatbot para te ajudar a se preparar mais para o processo seletivo: conheça a NERVA.
 
-Nerva é um simulador de entrevistas desenvolvido com IA generativa, idealizado para ajudar pessoas a se prepararem para entrevistas de emprego por meio de interações com inteligência artificial. O projeto foi criado como uma forma prática e acessível de treinar habilidades de comunicação e resposta em cenários realistas. Além disso, ele foi utilizado como base para uma aula gravada para o canal da Rocketseat, cujo objetivo é ajudar as pessoas no primeiro passo no uso de IA generativa criando um chatbot.
+Nerva é um simulador de entrevistas desenvolvido com a IA generativa da Google (Gemini), idealizado para ajudar pessoas a se prepararem para entrevistas de emprego por meio de interações com inteligência artificial. O projeto foi criado como uma forma prática e acessível de treinar habilidades de comunicação e resposta em cenários realistas. Além disso, ele foi utilizado como base para uma aula gravada para o canal da Rocketseat, cujo objetivo é ajudar as pessoas no primeiro passo no uso de IA generativa criando um chatbot.
 
 ### 🚀 Objetivo:
 Oferecer um ambiente seguro, sem julgamentos, para que usuários possam simular entrevistas reais, praticar respostas e aumentar sua confiança diante de perguntas comportamentais, técnicas ou abertas.
